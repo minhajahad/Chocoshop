@@ -1,0 +1,37 @@
+Body{
+font-family: Calibri, Helvetica, sans-serif;
+  background-color: white;
+  } 
+  button{
+  background-color: white;
+  width: 10%; 
+  border: 1px solid gray;
+  color: black;
+  padding:4px;
+  margin: 4px 0px;
+  cursor: pointer;
+  }
+  form{
+  border: 1px solid: #f1f1f1;
+  }
+  input[type=text], input[type=password]{
+  width: 20%;
+  margin: 4px 0;
+  padding: 10px 10px;
+  display: inline-block;
+  border: 1px solid gray;
+  box-sizing: border box;
+  }
+  button:hover{
+  opacity: 0.3;
+  }
+  .cancelbtn{
+  width: 10%;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  }
+  .container{
+  padding: 2px;
+  width: 40%;
+  background-color: LightGray; 
+  }
